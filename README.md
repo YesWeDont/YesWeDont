@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## [~~☭RGES best☭~~ nvm](https://rges.ga)
+## [~~☭RGES best☭~~(nvm it sucks)](https://rges.ga)
 
 ### [Blog page here](https://yeswedon.tk/blog)
 Note: There are some recaptcha checks
