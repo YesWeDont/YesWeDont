@@ -13,14 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### [Blog page here](https://yeswedon.tk/blog)
+### [Blog page here](https://yeswedont.github.io/blog)
 Note: There are some recaptcha checks
 
 ## About me
-Average TS(X)/Rust user
+Average (T/J)S(X)/Rust user
 
-`import React from 'react'`:heart:
-
-fa-font-awesome-flag, techno :sob:
-
-xiang gang, 1836.png, Jungfraujoch 🤣
+~~`import React from 'react'`~~ `svelte`:heart:
